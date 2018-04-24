@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "139430696475",
+    "firebase_url": "https://ahblog-ce848.firebaseio.com",
+    "project_id": "ahblog-ce848",
+    "storage_bucket": "ahblog-ce848.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139430696475:android:1a5d4047bc20ffc4",
+        "android_client_info": {
+          "package_name": "com.aras.ahblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139430696475-df1tcrbjrd6mvac0dfobop75hb1fm674.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aras.ahblog",
+            "certificate_hash": "b4dcd30bf67189318fb4654ec72c08fcbcaecedc"
+          }
+        },
+        {
+          "client_id": "139430696475-8efku08lmm3usihq89rjrmm4n0ihnuur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSHtX5IPcLYrpMN4uyDp34kEdi1UgJ8w4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139430696475-8efku08lmm3usihq89rjrmm4n0ihnuur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
